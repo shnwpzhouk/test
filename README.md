@@ -1,1 +1,1 @@
-# cat is the teacher of lion.
+# cat is the teacher of lion, octocat said.
